@@ -1,0 +1,6 @@
+framework module Pods_Surya_Software_SystemsTests {
+  umbrella header "Pods-Surya Software SystemsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
